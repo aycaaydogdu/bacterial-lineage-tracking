@@ -1,0 +1,7 @@
+Frame,Variant,GT_cells,Predicted_cells,TP,FP,FN,Precision,Recall,F1
+51,Original,2,6,2,4,0,0.333333333333,1.0,0.5
+51,Area-filtered,2,2,2,0,0,1.0,1.0,1.0
+52,Original,3,6,3,3,0,0.5,1.0,0.666666666667
+52,Area-filtered,3,3,3,0,0,1.0,1.0,1.0
+400,Original,58,58,58,0,0,1.0,1.0,1.0
+400,Area-filtered,58,58,58,0,0,1.0,1.0,1.0
