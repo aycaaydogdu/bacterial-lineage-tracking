@@ -1,0 +1,3 @@
+Method,TP,FP,FN,Division_TP,Division_FP,Division_FN,Link_F1,Division_F1
+Continuation protection,11233,14,53,85,11,37,0.9970265832334798,0.7798165137614679
+Hungarian,11160,4,126,0,0,122,0.9942093541202672,0.0

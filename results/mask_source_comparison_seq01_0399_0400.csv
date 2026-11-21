@@ -1,0 +1,3 @@
+Mask_source,TP,FP,FN,Precision,Recall,Link_F1,Division_TP,Division_FP,Division_FN,Division_F1
+Ground-truth masks,79,0,0,1.0,1.0,1.0,3,0,0,1.0
+Omnipose + area filter,79,0,0,1.0,1.0,1.0,3,0,0,1.0

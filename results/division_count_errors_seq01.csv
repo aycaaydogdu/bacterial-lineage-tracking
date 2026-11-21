@@ -1,0 +1,16 @@
+Transition,Method,Reference_divisions,Division_TP,Division_FP,Division_FN,Predicted_divisions,Count_error
+0→1,Hungarian,0,0,0,0,0,0
+0→1,Original division rules,0,0,0,0,0,0
+0→1,Continuation protection,0,0,0,0,0,0
+199→200,Hungarian,0,0,0,0,0,0
+199→200,Original division rules,0,0,0,0,0,0
+199→200,Continuation protection,0,0,0,0,0,0
+399→400,Hungarian,3,0,0,3,0,-3
+399→400,Original division rules,3,3,0,0,3,0
+399→400,Continuation protection,3,3,0,0,3,0
+599→600,Hungarian,7,0,0,7,0,-7
+599→600,Original division rules,7,5,4,2,9,2
+599→600,Continuation protection,7,5,1,2,6,-1
+798→799,Hungarian,17,0,0,17,0,-17
+798→799,Original division rules,17,11,20,6,31,14
+798→799,Continuation protection,17,12,2,5,14,-3

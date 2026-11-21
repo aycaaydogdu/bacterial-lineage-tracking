@@ -1,0 +1,3 @@
+Method,Division_TP,Division_FP,Division_FN,Division_F1
+Hungarian baseline,0,0,1,0.0
+Division-aware baseline,1,0,0,1.0

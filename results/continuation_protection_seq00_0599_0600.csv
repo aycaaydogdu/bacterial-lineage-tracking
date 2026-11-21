@@ -1,0 +1,4 @@
+Method,TP,FP,FN,Precision,Recall,Link_F1,Division_TP,Division_FP,Division_FN,Division_F1
+Hungarian,392,0,4,1.0,0.98989898989899,0.9949238578680203,0,0,4,0.0
+Original division rules,387,6,9,0.9847328244274809,0.9772727272727273,0.9809885931558935,4,3,0,0.7272727272727273
+Continuation protection,396,0,0,1.0,1.0,1.0,4,0,0,1.0
